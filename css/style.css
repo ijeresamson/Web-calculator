@@ -1,0 +1,33 @@
+.header{
+	background-image: url(../image/banner1.jpg);
+	width: 50%;
+	margin-left: 23%; 
+	
+}
+
+
+.head{
+	text-align: center;
+	font-family: sans-serif;
+	color: orangered;
+}
+form{
+	text-align: center;
+	color: white;
+	
+}
+.cut{
+	text-align: center;
+	color: whitesmoke;
+}
+
+input{
+	border-radius: 10px;
+}
+
+.submit:hover{
+	color: blue;
+	cursor: pointer;
+	background-color: chartreuse;
+}
+
